@@ -1,0 +1,14 @@
+layout_spectrum: 0.8040391420945525
+typography_spectrum: 0.7470819032751024
+color:
+  brandStrength: 0.8989322145935148
+  lightness: 0.8373586370144039
+  saturation: 0.7862173775210977
+  rhythmicContrast: 0.5805548415519297
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: All English Blog
