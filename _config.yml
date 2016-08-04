@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.8040391420945525
+author:
+  name: Eric Brown
+  email: ericupsidebrown@gmail.com
+  url: 'http://allenglish.com'
 name: All English Blog
 title: All English Blog
 description: Helping the World Connect with English
