@@ -6,9 +6,10 @@ color:
   saturation: 0.7862173775210977
   rhythmicContrast: 0.5805548415519297
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: All English Blog
+title: All English Blog
