@@ -1,4 +1,3 @@
-layout_spectrum: 0.8040391420945525
 typography_spectrum: 0.7470819032751024
 color:
   brandStrength: 0.8989322145935148
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.8040391420945525
 name: All English Blog
 title: All English Blog
+description: Helping the World Connect with English
