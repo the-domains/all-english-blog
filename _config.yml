@@ -1,16 +1,16 @@
-typography_spectrum: 0.7470819032751024
+typography_spectrum: 0.8712036374490708
 color:
-  brandStrength: 0.8989322145935148
-  lightness: 0.8373586370144039
-  saturation: 0.7862173775210977
-  rhythmicContrast: 0.5805548415519297
+  brandStrength: 0.9099636641331017
+  lightness: 0.780349753331393
+  saturation: 0.9559973026625812
+  rhythmicContrast: 0.7802428386639804
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.8040391420945525
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.5955512102227658
 author:
   name: All English Hyper-Immersion Program
   email: ericupsidebrown@gmail.com
